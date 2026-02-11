@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Tabular Baseline (MODULE)",
+      "type": "python",
+      "request": "launch",
+      "module": "experiments.run_tabular_baseline",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
