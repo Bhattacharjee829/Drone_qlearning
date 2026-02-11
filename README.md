@@ -17,12 +17,6 @@ Version 1 focuses on:
 - A tabular Q-learning baseline
 - Clean experimental structure
 
-**This version does NOT include:**
-- Deep learning
-- Performance optimization
-- Generalization experiments
-- Large-scale evaluation
-
 ---
 
 ## Environment Description
